@@ -1,0 +1,73 @@
+body{background-color:rgb(100 100 100);
+    
+    
+}
+
+
+.form{width:350px; height:550px;
+background:linear-gradient(to bottom,skyblue 50%,lightgreen 50%);
+border-radius:20px;
+margin-left:26px;
+margin-top:70px;
+    
+    
+    
+}
+
+.heading{text-align:center ;
+padding-top:10px;
+    
+    
+    
+}
+
+button{cursor:pointer ; width:200px;
+padding-top:6px;
+padding-bottom:6px;
+margin-top:80px;
+margin-bottom:40px;
+margin-left:75px;
+border-radius:10px;
+background-color:rgb(190 100 190);
+    
+    
+}
+
+
+.input{margin-top:80px;
+margin-left:40px;
+    
+    
+}
+
+.logo{border:3px solid white;
+background:linear-gradient(45deg, deeppink 50%,#ccc 50%);
+margin-right:120px;
+margin-left:140px;
+text-align:center ;
+width:50px;
+height:40px;
+padding-top:20px;
+border-radius:50%;
+box-shadow:4px 4px 4px red;
+margin-top:30px;
+
+    
+    
+}
+
+#email{margin-bottom:40px;
+padding-right:30px;
+border-radius:20px;
+height:30px;
+
+}
+
+#password{padding-right:30px;
+border-radius:30px;
+height:30px;
+
+
+}
+
+#signup{text-align:center ;}
